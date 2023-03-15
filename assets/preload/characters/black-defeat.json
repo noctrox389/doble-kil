@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-115,
+				275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "black_defeat Down"
+		},
+		{
+			"offsets": [
+				-44,
+				307
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "black_defeat up"
+		},
+		{
+			"offsets": [
+				-138,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "black_defeat right"
+		},
+		{
+			"offsets": [
+				-189,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "black_defeat left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				41
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "black_defeat Idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/black_defeat",
+	"position": [
+		-320,
+		0
+	],
+	"healthicon": "whiteblack",
+	"flip_x": true,
+	"healthbar_colors": [
+		58,
+		27,
+		79
+	],
+	"camera_position": [
+		-660,
+		-280
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1.8
+}

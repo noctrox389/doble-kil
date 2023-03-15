@@ -1,0 +1,9 @@
+Esto ests explicado a mi manera
+
+valor 1 poner 'a' para hacer el efecto 'b' para desactivarlo
+
+valor 2 aqui pon el tiempo de aparacion o de salida 
+ejemplo 0.5 para que sea rapido
+2.5 para que sea lento
+Script by Saltyboii#2461
+traducido y explicado por el señor Sakar

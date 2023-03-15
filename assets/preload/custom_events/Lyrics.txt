@@ -1,0 +1,8 @@
+Value1 = Lyrics.
+to put a color, you have to write thetext with the final
+"--0x" and the color parameter. For example:
+Sonic is good--0xFF0000.
+Value2 = timer,borders,cinematic.
+To disable the borders,write like that(if timer is blank or
+don't have the boolean value,the dialogue don't appear):
+timer,borders:false,cinematic:false

@@ -1,0 +1,4 @@
+Desvanecer la interfaz de usuario hacia adentro o hacia afuera 
+
+Valor 1: Tipo (0 = Fundido de entrada, 1 = Fundido de salida) 
+Valor 2: cuánto tiempo lleva
